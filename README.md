@@ -1,1 +1,1 @@
-# -Diabetes-Prediction
+# -Diabetes_Prediction_Project
